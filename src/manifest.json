@@ -1,0 +1,22 @@
+{
+	"name": "Faker",
+	"identifier": "com.adamkirkwood.faker",
+	"appcast": "https://api.sketchpacks.com/v1/plugins/com.adamkirkwood.faker/appcast",
+	"version": "1.0.0",
+	"description": "Faker.js Sketch port",
+	"compatibleVersion": "44.1.0",
+	"bundleVersion": 1,
+	"commands": [
+		{
+			"name": "my-command",
+			"identifier": "my-command-identifier",
+			"script": "./my-command.js"
+		}
+	],
+	"menu": {
+		"title": "sketch-faker",
+		"items": [
+			"my-command-identifier"
+		]
+	}
+}
