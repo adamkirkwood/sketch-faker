@@ -1,7 +1,7 @@
 {
 	"name": "sketch-faker",
 	"version": "1.0.0",
-	"description": "Faker.js for Sketch",
+	"description": "A Faker.js powered Content Generator for Sketch",
 	"main": "faker.sketchplugin",
 	"repository": "https://github.com/adamkirkwood/sketch-faker",
 	"scripts": {
